@@ -2,5 +2,5 @@
 #### A collection of GLSL fragment shader experiments
 
 ### Collection:
-* [Mitosis]('http://glslsandbox.com/e#57430.2')
-* [Spatial Ambiance]('http://glslsandbox.com/e#57429.0')
+* [Mitosis](http://glslsandbox.com/e#57430.2)
+* [Spatial Ambiance](http://glslsandbox.com/e#57429.0)
